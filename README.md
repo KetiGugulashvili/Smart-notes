@@ -1,2 +1,2 @@
 # Smart-notes
-LinkedIn course - Django Essential Training
+LinkedIn courses - Django Essential Training and Unit testing in Django
